@@ -1,1 +1,1 @@
-# Deploying-a-static-web-app-in-aws
+# deploy-a-wordpress-app-on-aws
