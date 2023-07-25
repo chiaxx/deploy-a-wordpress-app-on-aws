@@ -15,7 +15,7 @@ routes -> edit routes -> add routes-> des[0.0.0.0/0] -> target[nat gw AZ1]
 associate the rt wth subnet
 subnet association -> edit sub association -> select [private app/data subnet AZ1] -> save association
  
-===================================================================================================================
+============================================================================================================
 
 create the second nat Gateway
 nat gateway -> create [nat gw AZ2] -> subnet[public subnet AZ2] -> allocate elastic ip -> create nat gateway
