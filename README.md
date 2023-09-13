@@ -1,1 +1,1 @@
-# deploy-a-wordpress-app-on-aws
+# A step by step guide on how to Deploy a Wordpress App on AWS
